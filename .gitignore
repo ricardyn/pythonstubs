@@ -108,3 +108,8 @@ venv.bak/
 /builder/pystubsbuilder/*.user
 /builder/packages
 /builder/PyStubbler/PyStubbler.csproj.user
+
+# Rider and Visual Studio files
+.idea/
+.vscode/
+.vs/
